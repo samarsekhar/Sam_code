@@ -1,0 +1,15 @@
+.radio-status{
+  column-gap: 20px;
+}
+.table-delete-edit_btn{
+  column-gap: 7px;
+}
+.table-delete-edit_btn i{
+  font-size: 18px;
+}
+
+p{
+  color: black;
+  font-family: 15px;
+  font-weight: 500;
+}
